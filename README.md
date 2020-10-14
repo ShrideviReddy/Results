@@ -1,5 +1,8 @@
 # Results
 Crafting adversarial example for semantic segmentaion model using FGSM.
+Dataset : Cityscapes Dataset
+Model: U-Net
+
 ## Result -1 :
 ### Original Image and Ground Truth:
 ![alt-text-1](Results/org_1.PNG "Clean Image") ![alt-text-2](Results/true_1.PNG "Ground truth")
