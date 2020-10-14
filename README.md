@@ -12,4 +12,4 @@ Crafting adversarial example for semantic segmentaion model using FGSM.
 ![alt-text-1](Results/org_3.PNG "Clean Image")  ![alt-text-2](Results/true_3.PNG "Ground truth")
 
 ### Prediction without and with FGSM:
-![alt-text-1](Results/pred_3.PNG "Prediction without Noise") { width=50% } ![alt-text-2](Results/noisy_3.PNG "Prediction with FGSM") { width=50% }
+![alt-text-1](Results/pred_3.PNG "Prediction without Noise") ![alt-text-2](Results/noisy_3.PNG "Prediction with FGSM")
