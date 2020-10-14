@@ -4,8 +4,8 @@ Crafting adversarial example for semantic segmentaion model using FGSM.
 ### Original Image and Ground Truth:
 ![alt-text-1](Results/org_1.PNG "Clean Image") ![alt-text-2](Results/true_1.PNG "Ground truth")
  <p float="left">
-    <img src="Results/org_1.PNG" alt="Drawing" style="width: 200px;"/>
-    <img src="Results/true_1.PNG" alt="Drawing" style="width: 200px;"/>
+    <img src="Results/org_1.PNG" alt="Drawing" style="width: 250px;"/>
+    <img src="Results/true_1.PNG" alt="Drawing" style="width: 250px;"/>
  </p>
 
 ### Prediction without and with FGSM:
